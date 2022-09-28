@@ -27,8 +27,8 @@ Throughout the term we also run many events from ceilidh dancing nights to campf
 Warwick Folk plays a whole host of different styles of folk, new and old. We intend to be a welcoming enviroment for all those interested in learning Folk for the first time. 
 The society has an everchanging *bandfolder* which houses many of our favourite tunes. You can download the latest 2020 band folder below.
 
-- [Warwick Band Folder (treble cleff)](/assets/pdf/FolkBandFolder2020.pdf)
-- [Warwick Band Folder (bass cleff)](/assets/pdf/FolkBandFolder2020Bass.pdf)
+- [Warwick Band Folder (treble clef)](/assets/pdf/FolkBandFolder2020.pdf)
+- [Warwick Band Folder (bass clef)](/assets/pdf/FolkBandFolder2020Bass.pdf)
 - [Warwick Band Folder (Bb)](/assets/pdf/FolkBandFolder2020-Bb.pdf)
 - [Warwick Band Folder (D)](/assets/pdf/FolkBandFolder2020-D.pdf)
 
